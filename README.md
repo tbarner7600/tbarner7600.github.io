@@ -1,4 +1,2 @@
 # tbarner7600.github.io
-title: Homepage of ##7600
-theme: jekyll-theme-merlot
-description: a githup page for my programming course in college. bokmark this if you'd like, anways!
+ a github page for my programming course in college. bokmark this if you'd like, anways!
